@@ -23,7 +23,9 @@ Through data visualizations, this project investigates NBA player statistics fro
 ## Key Technologies:
 **Language:** R
 
-**Libraries:** dplyr (for data manipulation) and ggplot2 (for data visualization) 
+**Libraries:** 
+- dplyr (for data manipulation) 
+- ggplot2 (for data visualization) 
 
 ## Full Project Write-up:
 For a detailed narrative, comprehensive methodology, and deeper insights into this project, please read the full write-up on [LinkedIn](https://www.linkedin.com/in/gaelmotahernandez/details/projects/1731117327280/single-media-viewer/?profileId=ACoAAD0sr1oBRU-g7rHenPy0sFhxgU6vSvExSdU).
