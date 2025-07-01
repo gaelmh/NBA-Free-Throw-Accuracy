@@ -17,7 +17,7 @@ Through data visualizations, this project investigates NBA player statistics fro
   <img src="Visualizations/DensityPlot.png" height="500px" alt="Density Plot comparing the average free throw points distribution for MVP and non-MVP players">
 </p>
 
-## Key Technologies Used:
+## Key Technologies:
 **Language:** R
 
 **Libraries:** dplyr (for data manipulation) and ggplot2 (for data visualization) 
