@@ -1,6 +1,9 @@
 # NBA Free Throw Accuracy
 Through data visualizations, this project investigates NBA player statistics from the 1997-98 to the 2021-22 seasons to analyze factors affecting free throw accuracy and its correlation with MVP status in the NBA.
 
+## Data:
+[NBA Player Statistics](https://www.kaggle.com/datasets/sadeghjalalian/nba-player-stats-19982022) gathered from Kaggle.
+
 ## Key Insights:
 - **Positional Influence:** Point Guards and Shooting Guards generally exhibit higher free throw accuracy compared to Centers and Power Forwards.
 <p align="center">
